@@ -7,6 +7,16 @@ The look and feel is slightly different than the native navigator but it is bett
 
 Note: This is **not** the same `TabNavigation` component that is used in [ExNavigation](https://github.com/exponentjs/ex-navigation), the API and implementations are slightly different -- react-native-tab-navigator stands on its own and does not depend on any other navigation library.
 
+# Use Case
+- tab页跳转
+  
+# Effect Picture
+  - tab页跳转效果
+  
+<a><img width="200" src="./tab1.jpg"></a>
+<a><img width="200" src="./tab2.jpg"></a>
+<a><img width="200" src="./tab3.jpg"></a>
+
 Install
 -------
 
