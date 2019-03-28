@@ -7,6 +7,9 @@ The look and feel is slightly different than the native navigator but it is bett
 
 Note: This is **not** the same `TabNavigation` component that is used in [ExNavigation](https://github.com/exponentjs/ex-navigation), the API and implementations are slightly different -- react-native-tab-navigator stands on its own and does not depend on any other navigation library.
 
+# Introduction
+- 该组件主要满足首页需要底部tab跳转的需求
+
 # Use Case
 - tab页跳转
   
