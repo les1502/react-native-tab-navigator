@@ -39,7 +39,7 @@ This is an example of how to use the component and some of the commonly used pro
 
 ```js
 <TabNavigator>
-  <TabNavigator.Item
+  <TabNavigator.Item//Tab页1
     selected={this.state.selectedTab === 'home'}
     title="Home"
     renderIcon={() => <Image source={...} />}
@@ -48,7 +48,7 @@ This is an example of how to use the component and some of the commonly used pro
     onPress={() => this.setState({ selectedTab: 'home' })}>
     {homeView}
   </TabNavigator.Item>
-  <TabNavigator.Item
+  <TabNavigator.Item//Tab页2
     selected={this.state.selectedTab === 'profile'}
     title="Profile"
     renderIcon={() => <Image source={...} />}
